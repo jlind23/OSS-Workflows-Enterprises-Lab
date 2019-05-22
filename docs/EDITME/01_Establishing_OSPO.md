@@ -1,7 +1,6 @@
 # Why?
 
- - <Insert notes here >
-
+Be attractive. There is no silver bullet no perfect single workflow.
 
 # OSPO - The Role and Responsibility
 
