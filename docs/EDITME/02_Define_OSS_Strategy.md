@@ -1,25 +1,22 @@
 # Maturity Assessment?
 
- - <Insert notes here >
-
+There is different stage and then you have to figure where you are out.
 
 # OSPO - Strategy
 
-- <Insert notes here >
-- <Who are your potential stakeholders in your Enterprise?>
+How to consume and then how to contribute !
 
 
 # OSPO - Strategy Manifesto Components
 
- - <Insert notes here >
- - <Think of guidelines that are most relevant to your current Enterprises relationship with OSS>
+Then if you are thinking about doing open source software you should think about best practices.
+README.MD first, then core contributors commitee
  
 
 # OSPO - Making the ROI Case
  
- - <Insert notes here >
- - <Think in terms of how launching an OSS, contributing or using could potentially benefit your Enterprise cost wise>
- 
+What can be open sourced ? What are the benefits ?
+Main benefit for us will be community and attractivity
 
 # Further Reading
 
