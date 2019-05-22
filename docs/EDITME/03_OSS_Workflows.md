@@ -28,8 +28,7 @@
  - <Insert notes here>
 
 #### Hiring from the Community
- - <Insert notes here>
-
+- That one is really important, instead of being pushed by internal deadlines we should use members of the community to work for us.
 
 # Launching an OSS Software
 
